@@ -1,5 +1,5 @@
 # NHD-C12864A1Z_Example
-Program for writing to Newhaven Display's Graphic Chip-On-Glass **NHD-C12864A1Z** Series with ST7565P controller.
+Program for writing to Newhaven Display's Graphic Chip-On-Glass **NHD-C12864A1Z** Series with ST7565P controller. This code is written for the Arduino Uno. 
 
 Purchase a sample from our Product Pages linked below!
 
